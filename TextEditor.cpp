@@ -21,6 +21,7 @@
 
 #include "TextEditor.h"
 
+using namespace ImGuiColorTextEdit;
 
 //
 //	TextEditor::TextEditor

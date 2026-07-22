@@ -31,6 +31,7 @@
 //	TextEditor
 //
 
+namespace ImGuiColorTextEdit {
 class IMGUI_API TextEditor {
 public:
 	// constructor
@@ -1391,3 +1392,4 @@ protected:
 	// language support
 	const Language* language = nullptr;
 };
+}
